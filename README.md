@@ -20,6 +20,7 @@ git clone https://github.com/Rayen-cherni/BazArt-Project.git
 ```
 Great, then run the following command line to run the project locally 
 ```sh
+npm install
 ng serve --open
 ```
 You will be redirected automatically to http://localhost:4600. <br/>
