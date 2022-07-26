@@ -12,7 +12,7 @@ Features of this web appliction are:
 5. Add/update to cart
 6. Notifications for order update notification.
 
-## Testing the Application
+## Installation
 Want to Test? Great!
 Let's start by cloning the project in your machine
 Open your terminal and execute
@@ -32,5 +32,3 @@ http://localhost:4600
 
 ## Further information
 To get more information on the Bazart project you can contact me on [LinkedIn](https://www.linkedin.com/in/rayen-cherni-181b97198/) or by Email rayen.cherni@eniso.u-sousse.tn.<br/>
-Code updated on: **Jul 3, 2020** <br/>
-Readme updated on: **Jul,26 2022**. 
