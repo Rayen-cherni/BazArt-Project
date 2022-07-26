@@ -1,6 +1,7 @@
 ## Project Summary
 The website displays products. Users can add and remove products to/from their cart while also specifying the quantity of each item. They can then enter their address and choose Stripe to handle the payment processing.<br/>
-This application is developed using [Angular](https://angular.io/) version 8.
+This project was generated with Angular version 8.
+
 
 ## Features
 Features of this web appliction are:
