@@ -1,27 +1,35 @@
-# BazArt2
+## Project Summary
+The website displays products. Users can add and remove products to/from their cart while also specifying the quantity of each item. They can then enter their address and choose Stripe to handle the payment processing.<br/>
+This application is developed using [Angular](https://angular.io/) version 8.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
+## Features
+Features of this web appliction are:
+1. Product List Page
+2. Product Detail Page
+3. Filters by Category, options, size etc..
+4. Sort(New arrival, Price)
+5. Advanced searching and autocomplete with Elasticsearch
+6. Add/update to cart
+7. Notifications for order update notification, payment failure
 
-## Development server
+## Testing the Application
+Want to Test? Great!
+Let's start by cloning the project in your machine
+Open your terminal and execute
+```sh
+git clone https://github.com/Rayen-cherni/BazArt-Project.git
+```
+Great, then run the following command line to run the project locally 
+```sh
+ng serve --open
+```
+You will be redirected automatically to http://localhost:4600. <br/>
+If you have any problem with the redirection please go to your Browser and tap
+```sh
+http://localhost:4600
+```
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Further information
+To get more information on the Bazart project you can contact me in [LinkedIn](https://www.linkedin.com/in/rayen-cherni-181b97198/) or by Email rayen.cherni@eniso.u-sousse.tn.<br/>
+Code updated on: **Jul 3, 2020** <br/>
+Readme updated on: **Jul,26 2022**. 
