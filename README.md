@@ -29,6 +29,6 @@ http://localhost:4600
 ```
 
 ## Further information
-To get more information on the Bazart project you can contact me in [LinkedIn](https://www.linkedin.com/in/rayen-cherni-181b97198/) or by Email rayen.cherni@eniso.u-sousse.tn.<br/>
+To get more information on the Bazart project you can contact me on [LinkedIn](https://www.linkedin.com/in/rayen-cherni-181b97198/) or by Email rayen.cherni@eniso.u-sousse.tn.<br/>
 Code updated on: **Jul 3, 2020** <br/>
 Readme updated on: **Jul,26 2022**. 
