@@ -8,9 +8,8 @@ Features of this web appliction are:
 2. Product Detail Page
 3. Filters by Category, options, size etc..
 4. Sort(New arrival, Price)
-5. Advanced searching and autocomplete with Elasticsearch
-6. Add/update to cart
-7. Notifications for order update notification, payment failure
+5. Add/update to cart
+6. Notifications for order update notification.
 
 ## Testing the Application
 Want to Test? Great!
